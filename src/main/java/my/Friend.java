@@ -9,4 +9,8 @@ public class Friend {
         System.out.println( "my nickname is zjj!" );
     }
 
+    private void getAge(){
+
+    }
+
 }
