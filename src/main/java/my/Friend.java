@@ -10,7 +10,6 @@ public class Friend {
     }
 
     private void getAge(){
-
+            System.out.println( "I am 21 !" );
     }
-
 }
